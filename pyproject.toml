@@ -8,4 +8,5 @@ dependencies = [
     "langchain-groq>=0.3.2",
     "langchain-openai>=0.3.13",
     "mcp-use>=1.2.5",
+    "rich>=14.0.0",
 ]
